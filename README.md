@@ -4,8 +4,6 @@
 
 ### Chemometrics &nbsp;•&nbsp; Machine Learning &nbsp;•&nbsp; Analytical Chemistry
 
-*From raw instrumental signal to validated, interpretable chemical knowledge.*
-
 **· Department of Chemistry · Università degli Studi di Torino · Turin, Italy**
 
 <br>
